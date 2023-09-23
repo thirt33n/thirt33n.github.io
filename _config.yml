@@ -21,9 +21,10 @@ author: thirt33n
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Resources: "resources"
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
+
   Author's home: "https://github.com/thirt33n/"
 
 ################
