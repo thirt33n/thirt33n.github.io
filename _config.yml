@@ -166,7 +166,7 @@ mobile-theme-col: "#0085A1"
 #gtag: "G-XXXXXXXXXX"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-#cloudflare_analytics: ""
+cloudflare_analytics: "cbc2ce32f91b4a20ac5e0357f4729f0f"
 
 # Google Tag Manager ID
 #gtm: ""
