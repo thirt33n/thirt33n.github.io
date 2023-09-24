@@ -27,7 +27,7 @@ cover-img: /assets/img/tools.png
 
 5. **[Facebook Graph Search](https://www.facebook.com/public/your-query)** - Allows you to search public Facebook content based on various parameters.
 
-6. **[Toutatis](https://github.com/megadose/toutatis) - CLI tool that finds details about any instagram account including phone numbers and email.
+6. **[Toutatis](https://github.com/megadose/toutatis)** - CLI tool that finds details about any instagram account including phone numbers and email.
 
 7. **[LinkedIn](https://www.linkedin.com)** - Use LinkedIn's advanced search to find professionals and companies.
 
@@ -69,6 +69,6 @@ cover-img: /assets/img/tools.png
 
 23. **[Synapsint](https://synapsint.com/index.php)** - Curated all-in-one OSINT tool.
 
-
+24. **[OSINT industries](https://osint.industries/email)** -  Comprehensive OSINT tool for people lookup
 
 
