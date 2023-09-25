@@ -136,7 +136,7 @@ text-col: "#E6E3E3"
 link-col: "#DD3D54"
 hover-col: "#E63030"
 footer-col: "#1C1C24"
-footer-text-col: "#A6ADAF"
+footer-text-col: "#A6ADAF" 
 footer-link-col: "#DD3D54"
 footer-hover-col: "#E63030"
 
