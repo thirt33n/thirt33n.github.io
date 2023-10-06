@@ -4,9 +4,11 @@ title: About me
 subtitle: whoami
 ---
 
-My name is SIddharth Pradeep. I have the following qualities:
+My name is [Siddharth Pradeep](https://github.com/thirt33n/) 
 
-- big black n
+
+
+
 
 What else do you need?
 
