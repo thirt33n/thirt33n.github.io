@@ -61,6 +61,9 @@ cover-img: /assets/img/tools.png
 
 19. **[nmap](https://nmap.org)** - Network Mapping tool and port scanner
 20. **[fping](https://fping.org)** - Tool using ICMP protocol that can identify live hosts in a network very fast.
+21. **[goscanner](https://github.com/thirt33n/go-tools)** - Fast port scanner written using go for Linux and Windows.
+
+    
 ## Miscellaneous
 
 21. **[Sn0int](https://github.com/kpcyrd/sn0int)** - An OSINT framework that automates data collection and analysis.
