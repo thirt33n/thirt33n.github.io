@@ -10,7 +10,7 @@ comments: true
 
 
 ## Devvortex
-![Photobomb](../assets/img/devvortex.png)
+![Photobomb](../assets/img/Devvortex.png)
 
 ## User Flag
 
