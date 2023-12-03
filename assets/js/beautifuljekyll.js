@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', function(){
           const clientIP = data.ip;
 
 
-          fetch('https://ntfy.sh/th1rt33n', {
+          fetch('https://ntfy.sh/blogbussy', {
               method: 'POST',
               body: `Client IP: ${clientIP}`
           })
