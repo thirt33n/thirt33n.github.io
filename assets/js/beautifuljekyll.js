@@ -139,4 +139,34 @@ let BeautifulJekyllJS = {
 
 // 2fc73a3a967e97599c9763d05e564189
 
-document.addEventListener('DOMContentLoaded', BeautifulJekyllJS.init);
+// document.addEventListener('DOMContentLoaded', BeautifulJekyllJS.init);
+
+
+//IP grabbing for no reason.
+document.addEventListener('DOMContentLoaded', function(){
+
+  BeautifulJekyllJS.init();
+
+
+
+  fetch('https://api.ipify.org?format=json')
+      .then(response => response.json())
+      .then(data => {
+          const clientIP = data.ip;
+
+
+          fetch('https://ntfy.sh/th1rt33n', {
+              method: 'POST',
+              body: `Client IP: ${clientIP}`
+          })
+          .then(secondResponse => {
+
+          })
+          .catch(error => {
+              console.error('Error in second fetch:', error);
+          });
+      })
+      .catch(error => {
+          console.error('Error in first fetch:', error);
+      });
+});
